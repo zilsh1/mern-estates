@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <h3>A MERN-stack house estate project that utilizes Firebase for Google authentication and storage. </h3>
 
-<h3In this project, users can post house listings, search for available properties using various filters, and contact the property owner via email.</h3> <br>
+<h1>In this project, users can post house listings, search for available properties using various filters, and contact the property owner via email.</h1> <br>
 
 <h1>Screen Shorts</h1> <br>
 <h1 align="center">Home page</h1> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%201.png?raw=true" alt="vasuvachhani" /></p> <br>
+<p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20191857.png" /></p> <br>
 <p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%202.png?raw=true" alt="vasuvachhani" /></p> <br>
 <p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%203.png?raw=true" alt="vasuvachhani" /></p> <br>
 

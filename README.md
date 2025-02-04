@@ -8,18 +8,13 @@
 <h1 align="center">Home page</h1> <br>
 <p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20191857.png" /></p> <br>
 <p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20191932.png" /></p> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%203.png?raw=true" alt="vasuvachhani" /></p> <br>
+<p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20191937.png" /></p> <br>
 
-<h1 align="center">City Selection</h1> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%204.png?raw=true" /></p> <br>
+<h1 align="center">Profile page</h1> <br>
+<p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20192055.png" /></p> <br>
 
-<h1 align="center">Buying and Renting</h1> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%205.png?raw=true" /></p> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%206.png?raw=true" /></p> <br>
-
-<h1 align="center">Housing Information</h1> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%207.png?raw=true" /></p> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%208.png?raw=true" /></p> <br>
+<h1 align="center">Editing listing</h1> <br>
+<p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20192110.png" /></p> <br>
 
 # 💻 Programming Languages:
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 

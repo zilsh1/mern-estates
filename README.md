@@ -7,7 +7,7 @@
 <h1>Screen Shorts</h1> <br>
 <h1 align="center">Home page</h1> <br>
 <p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20191857.png" /></p> <br>
-<p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%202.png?raw=true" alt="vasuvachhani" /></p> <br>
+<p align="left"><img src="https://github.com/zilsh1/mern-estates/blob/main/Screenshots/Screenshot%202025-02-04%20191932.png" /></p> <br>
 <p align="left"><img src="https://github.com/zilsh1/ghardekho/blob/main/Screenshot%203.png?raw=true" alt="vasuvachhani" /></p> <br>
 
 <h1 align="center">City Selection</h1> <br>
